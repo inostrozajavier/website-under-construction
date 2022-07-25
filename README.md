@@ -10,7 +10,7 @@ Javier Inostroza
 ## See in Live
 - [[CHECK]](https://inostrozajavier.github.io/website-under-construction/ "[ENLACEGITHUBPAGES]")
 
-## Instalation
+## Installation
 Doesn't require installation
 
 ## Contratación
