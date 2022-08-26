@@ -1,5 +1,5 @@
 ## Description
-This is a clone of Netflix website the same was make with css, html & Javascript.
+This's a basic template for a website under construction the same was make with css & html.
 
 ## Author
 Javier Inostroza
@@ -8,7 +8,7 @@ Javier Inostroza
 * [[Porfolio]](https://inostrozajavier.com/ "[Porfolio]")
 
 ## See in Live
-- [[CHECK]](https://inostrozajavier.github.io/inoflix/ "[ENLACEGITHUBPAGES]")
+- [[CHECK]](https://inostrozajavier.github.io/website-under-construction/ "[ENLACEGITHUBPAGES]")
 
 ## Installation
 Doesn't require installation
